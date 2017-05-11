@@ -1,2 +1,2 @@
-build : l22.c
-g++ -Wall l22.c -o l22
+build : pr2.cpp
+g++ -Wall pr2.cpp -o pr2
